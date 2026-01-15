@@ -1,4 +1,4 @@
-title = "Mahir Gada's Writepad"
+title = "Mahir Gada's Scratchpad"
 description = "Daily work, learnings, notes, and experiments"
 base_url = "https://mahir-gadaa.github.io"
 default_language = "en"
@@ -10,3 +10,13 @@ taxonomies = [
 [extra]
 author = "Mahir Gada"
 allow_theme_toggle = true
+favicon = "/icon.png"
+theme = "dark"
+social_links = []
+socials = []
+menu = [
+  { name = "posts", url = "/posts" },
+  { name = "about", url = "/about" },
+  { name = "people", url = "/people" },
+  { name = "recommendations", url = "/recommendations" }
+]
